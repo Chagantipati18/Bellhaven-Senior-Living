@@ -24,7 +24,7 @@ def run(offline=False):
             crm=CRM();locs,pages,meta=scrape();accounts=crm.all('accounts');contacts=crm.all('contacts')
         ps,matched,parent=reconcile(locs,accounts,contacts)
         summary={**meta,'mode':'snapshot' if offline else 'live','crm_accounts':len(accounts),'crm_contacts':len(contacts),
-                 'proposal_count':len(ps),'classifications':dict(Counter(p['kind'] for p in ps)),
+                 'classifications':dict(Counter(p['kind'] for p in ps)),
                  'confident_matches':len(matched),'parent_id':parent}
         store.sync(ps,summary)
         stamp=now().replace(':','-');folder=DATA/'runs'/stamp;folder.mkdir(parents=True)
@@ -36,6 +36,8 @@ def run(offline=False):
             w=csv.DictWriter(f,fieldnames=['name','street','city','state','zip','care_offerings','source_url']);w.writeheader()
             for l in locs:w.writerow({k:('; '.join(l[k]) if isinstance(l[k],list) else l[k]) for k in w.fieldnames})
         states=Counter(r['state'] for r in store.rows());summary['queue_states']=dict(states)
+        summary['proposal_count']=summary['new_proposal_count']
         print(json.dumps(summary,indent=2));return summary
 if __name__=='__main__':
     p=argparse.ArgumentParser(description=__doc__);p.add_argument('--offline',action='store_true',help='Use the included read-only assessment snapshot');args=p.parse_args();run(args.offline)
+
