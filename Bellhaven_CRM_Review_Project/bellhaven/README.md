@@ -59,6 +59,10 @@ corrected CRM: the snapshot deliberately contains the original messy records.
 - `launch.py`: token prompt and cross-platform launch flow.
 - `test_core.py`: scraper, matching, billing and idempotence tests with fake CRM.
 - `cron.example`: daily scan schedule; deliberately not installed or activated.
+- `.github/workflows/daily-pipeline.yml` (at the repository root): daily GitHub
+  Actions schedule with a manual trigger, serialized runs, persisted decision
+  state, tests, and downloadable scan results. Add `BELLHAVEN_API_TOKEN` as a
+  GitHub Actions repository secret before enabling it.
 - `WRITEUP.md`: matching decisions, uncertainty, AI use, next steps, limitations.
 - `REVIEW_REPORT.html`: portable evidence and field diffs; **not an approval app**.
 - `data/locations.csv`: all 35 scraped locations and care offerings.
