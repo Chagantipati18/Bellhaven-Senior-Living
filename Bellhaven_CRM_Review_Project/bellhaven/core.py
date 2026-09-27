@@ -274,9 +274,19 @@ class Store:
         with self.db:
             for row in self.db.execute("SELECT id FROM proposals WHERE state='pending'").fetchall():
                 if row['id'] not in ids:self.db.execute("UPDATE proposals SET state='superseded' WHERE id=?",(row['id'],))
+            existing={r['id']:r['state'] for r in self.db.execute(
+                'SELECT id,state FROM proposals WHERE id IN ('+','.join('?' for _ in ids)+')',tuple(ids)
+            )} if ids else {}
             for p in ps:
                 self.db.execute('INSERT OR IGNORE INTO proposals VALUES(?,?,?,?,?,?,?,?)',(p['id'],p['subject'],canonical(p),'pending',now(),None,None,None))
+            stats={
+                'candidate_count':len(ps),
+                'new_proposal_count':sum(p['id'] not in existing for p in ps),
+                'suppressed_decided_count':sum(existing.get(p['id']) in ['approved','applied','rejected'] for p in ps),
+            }
+            summary.update(stats)
             self.db.execute('INSERT INTO runs(at,summary) VALUES(?,?)',(now(),canonical(summary)))
+        return stats
     def rows(self):return [dict(r) for r in self.db.execute('SELECT * FROM proposals ORDER BY created,subject')]
     def get(self,pid):
         r=self.db.execute('SELECT * FROM proposals WHERE id=?',(pid,)).fetchone()
@@ -371,3 +381,4 @@ def execute(store,pid,crm):
     except Exception as e:
         with store.db:store.db.execute("UPDATE proposals SET state='error' WHERE id=?",(pid,))
         store.event(pid,'error',str(e));raise
+
