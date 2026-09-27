@@ -57,6 +57,16 @@ class Tests(unittest.TestCase):
         p=self.ps[0];self.s.decide(p['id'],'reject','Reviewer','Do not change');self.s.sync(self.ps,{})
         self.assertEqual(self.s.get(p['id'])['state'],'rejected')
         with self.assertRaises(ValueError):execute(self.s,p['id'],self.crm)
+    def test_second_run_suppresses_all_decided_items(self):
+        rejected,applied=self.ps[:2]
+        self.s.decide(rejected['id'],'reject','Reviewer','Do not change')
+        self.approve(applied)
+        stats=self.s.sync(self.ps,{})
+        self.assertEqual(self.s.get(rejected['id'])['state'],'rejected')
+        self.assertEqual(self.s.get(applied['id'])['state'],'applied')
+        self.assertEqual(stats['new_proposal_count'],0)
+        self.assertEqual(stats['suppressed_decided_count'],2)
+        self.assertEqual(sum(r['state']=='pending' for r in self.s.rows()),len(self.ps)-2)
     def test_chow_preserves_old_account(self):
         p=self.chosen('Bellhaven of Tiffin');aid=p['steps'][1]['account_id'];before=self.crm.account(aid)
         self.approve(p);after=self.crm.account(aid);newid=after.pop('chow_current_account');before.pop('chow_current_account')
@@ -96,3 +106,4 @@ class Tests(unittest.TestCase):
         with self.assertRaises(RuntimeError):scrape(lambda url:'<html><a href="/communities">Communities</a></html>')
 
 if __name__=='__main__':unittest.main(verbosity=2)
+
