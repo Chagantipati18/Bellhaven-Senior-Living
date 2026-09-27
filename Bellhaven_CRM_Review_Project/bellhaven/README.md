@@ -76,6 +76,9 @@ share the ZIP as allowed by the exercise. Never upload your token.
 Use the same persistent `data` directory for scheduled scans and the review app.
 Stable semantic proposal IDs prevent unchanged rejected/approved proposals from
 being queued again. Pending items superseded by newer evidence are retired.
+Each run reports `new_proposal_count` and `suppressed_decided_count`, so a daily
+rerun makes this behavior visible instead of counting rediscovered decisions as
+new work.
 Scraping or pagination failure stops the scan before absence proposals can be
 saved. A process lock prevents overlapping local scans and writes. Unfinished
 approved operations block new scans until their journal has been resolved.
@@ -104,3 +107,4 @@ overwrite billing history. See WRITEUP.md for remaining limitations.
 
 After corrections, capture the final CRM counts/results and update the submission
 status and actual human time in WRITEUP.md before submitting.
+
