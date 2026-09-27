@@ -1,0 +1,344 @@
+[
+  {
+    "location": {
+      "name": "Bellhaven Court of Altoona",
+      "street": "1125 Logan Blvd",
+      "city": "Altoona",
+      "state": "PA",
+      "zip": "16602",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "care_type": "Assisted Living",
+      "administrator": "Elaine Sorensen",
+      "phone": "(517) 573-9493",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-court-of-altoona",
+      "source_sha256": "6b789b183b4084580c0b1ea828c3cf929e83759750fcf375310f474ccbb03d53"
+    },
+    "classification": "Confident match",
+    "account_id": "0011D2P3CWSHMF81C8",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of Defiance",
+      "street": "700 Carpenter Rd",
+      "city": "Defiance",
+      "state": "OH",
+      "zip": "43512",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "care_type": "Skilled Nursing",
+      "administrator": "Victor Barros",
+      "phone": "(330) 691-2711",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance",
+      "source_sha256": "8fee2b5a3f1db31fda1949a7211e8d9246d61668a3edfd95357f4620dbb21185"
+    },
+    "classification": "Confident match",
+    "account_id": "001R4PXTUD9R6FNN8V",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of Goshen",
+      "street": "1610 College Ave",
+      "city": "Goshen",
+      "state": "IN",
+      "zip": "46526",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "care_type": "Assisted Living",
+      "administrator": "Tanya Castellano",
+      "phone": "(330) 405-6040",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen",
+      "source_sha256": "cfab35a3951b0769c46a61c0cfb7d5e5ab0585a67aa12104f842c1d954e47c1a"
+    },
+    "classification": "Confident match",
+    "account_id": "001JQER1RMYKNRLNME",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of Kalamazoo",
+      "street": "3222 Gull Rd",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49048",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "care_type": "Skilled Nursing",
+      "administrator": "Chris Ferraro",
+      "phone": "(231) 460-1964",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kalamazoo",
+      "source_sha256": "43c09506bec9e7ba55c94dd026dc37d0ac668c6ef9434d88299751f66d79a2a6"
+    },
+    "classification": "Confident match",
+    "account_id": "001NSHWKQD0YJLPQ20",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of Maplewood",
+      "street": "210 Orchard Lane",
+      "city": "Maplewood",
+      "state": "OH",
+      "zip": "44280",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "care_type": "Assisted Living",
+      "administrator": "Nadia Duval",
+      "phone": "(614) 250-9447",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-maplewood",
+      "source_sha256": "a569ff62c182403d483e0791d5ba37d75e4af8a7a91c9e719cd6b1c2c6bb94bd"
+    },
+    "classification": "Confident match",
+    "account_id": "001L3LGR6W69J8DYYV",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of Marion",
+      "street": "199 Barks Rd W",
+      "city": "Marion",
+      "state": "OH",
+      "zip": "43302",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "care_type": "Skilled Nursing",
+      "administrator": "Doug Amato",
+      "phone": "(517) 847-7948",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion",
+      "source_sha256": "d0fdfa50e7e2d6292264f55967c0f9f3e5d6e6fd4640b8ab28ed4388d4fca1c5"
+    },
+    "classification": "Confident match",
+    "account_id": "0015L38R1Z5947ZZP7",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of Meadville",
+      "street": "341 Chestnut St",
+      "city": "Meadville",
+      "state": "PA",
+      "zip": "16335",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "care_type": "Skilled Nursing",
+      "administrator": "Chris Pike",
+      "phone": "(419) 848-5389",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-meadville",
+      "source_sha256": "6f02bff558267f5e0cfbd875d6d0e5e64dc89c406d5bbf173268cce7599fa430"
+    },
+    "classification": "Confident match",
+    "account_id": "001KC1NG7EZDEKKA3T",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of New Carlisle",
+      "street": "875 Elm Street",
+      "city": "New Carlisle",
+      "state": "OH",
+      "zip": "45344",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "care_type": "Skilled Nursing",
+      "administrator": "Elaine Novak",
+      "phone": "(614) 900-2177",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-new-carlisle",
+      "source_sha256": "425c6569e5b15f2e9d6e8f959968e30814d3c4fa3e579e8ed4942d05261e8782"
+    },
+    "classification": "Confident match",
+    "account_id": "001AQGPZ5G5VRES536",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of Saline",
+      "street": "980 W Michigan Ave",
+      "city": "Saline",
+      "state": "MI",
+      "zip": "48176",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "care_type": "Skilled Nursing",
+      "administrator": "Dale Green",
+      "phone": "(614) 868-2766",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-saline",
+      "source_sha256": "cf2a92f3e604de84fd39f03afb187b569f6b97096e6f597ed07a0c0c635226b4"
+    },
+    "classification": "Confident match",
+    "account_id": "001MVVAPY6U5TVYRC4",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven of Wooster",
+      "street": "2301 Cleveland Road",
+      "city": "Wooster",
+      "state": "OH",
+      "zip": "44691",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "care_type": "Skilled Nursing",
+      "administrator": "Lorna Sorensen",
+      "phone": "(517) 712-7557",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-wooster",
+      "source_sha256": "0a030ef41318c88cafdd7acdc16b8a5362781c73b23409b6ac33491090e8f86f"
+    },
+    "classification": "Confident match",
+    "account_id": "001W5G121A7SMRP58M",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven Terrace of Akron",
+      "street": "55 Ridgewood Avenue",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44313",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "care_type": "Assisted Living",
+      "administrator": "Chris Lindqvist",
+      "phone": "(260) 899-4605",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-terrace-of-akron",
+      "source_sha256": "89a8b1aba178678c84fb17c5a42948936f805716f482d4c302b99eac696d84e8"
+    },
+    "classification": "Confident match",
+    "account_id": "0019Y4J61ZBG4R00CD",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellhaven Woods of Toledo",
+      "street": "4850 NW Sylvania Ave",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43623",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "care_type": "Memory Care",
+      "administrator": "Doug Novak",
+      "phone": "(734) 388-8242",
+      "notices": [],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-woods-of-toledo",
+      "source_sha256": "d4b69b407560c799fa56e4b3d12b3a6e1fd0e0f534705e7a2cbcf63ff13ea1b1"
+    },
+    "classification": "Confident match",
+    "account_id": "0014DHACE6WQU3RMM5",
+    "reasons": [
+      "same city/state",
+      "normalized street matches",
+      "name matches",
+      "active contact matches website administrator",
+      "phone matches",
+      "ZIP matches",
+      "already under Bellhaven"
+    ]
+  }
+]

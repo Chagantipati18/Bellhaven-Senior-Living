@@ -1,0 +1,5 @@
+15 unittest tests passed.
+HTTP queue and detail views passed. Missing CSRF rejected with HTTP 403.
+Repeated matching against the final live snapshot added zero proposals or state changes.
+All-write simulation uses FakeCRM, not the live sandbox.
+Live CRM write validation awaits approval.

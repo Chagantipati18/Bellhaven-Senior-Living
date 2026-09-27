@@ -1,0 +1,20 @@
+{
+  "directory_count": 34,
+  "total_count": 35,
+  "fetched_at": "2026-09-27T03:55:10.222960+00:00",
+  "mode": "live",
+  "crm_accounts": 121,
+  "crm_contacts": 67,
+  "proposal_count": 26,
+  "classifications": {
+    "New account": 4,
+    "Fix match": 12,
+    "Duplicate cleanup": 3,
+    "Ambiguous match": 1,
+    "CHOW": 2,
+    "Fix + duplicates": 1,
+    "No longer listed": 3
+  },
+  "confident_matches": 12,
+  "parent_id": "0015QAPLGS3FVYEEEM"
+}

@@ -1,0 +1,19 @@
+{
+  "status": "awaiting_reviewer_approval",
+  "live_crm_mutations": 0,
+  "build_started_at": "2026-09-27T03:41:21+00:00",
+  "packaged_at": "2026-09-27T03:56:09.060699+00:00",
+  "ai_assisted_elapsed_minutes": 14.8,
+  "human_time_spent": "User must provide actual hands-on time",
+  "unit_tests_passed": 15,
+  "http_checks": [
+    "queue GET",
+    "proposal evidence GET",
+    "missing CSRF rejected"
+  ],
+  "unchanged_snapshot_repeat_added_proposals": 0,
+  "website_locations": 35,
+  "crm_accounts": 121,
+  "crm_contacts": 67,
+  "pending_proposals": 26
+}

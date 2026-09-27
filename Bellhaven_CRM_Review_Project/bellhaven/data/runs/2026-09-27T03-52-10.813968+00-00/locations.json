@@ -1,0 +1,564 @@
+[
+  {
+    "name": "Amberly Manor",
+    "street": "4390 Darrow Rd",
+    "city": "Hudson",
+    "state": "OH",
+    "zip": "44236",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Tom Trent",
+    "phone": "(330) 228-4392",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/amberly-manor",
+    "source_sha256": "208e0eb3fa313a914c099f850ead2466a57980457426f249a36c9e9bd29ade68"
+  },
+  {
+    "name": "Bellhaven at Sycamore Ridge",
+    "street": "7420 Sycamore Ridge Dr",
+    "city": "Miamisburg",
+    "state": "OH",
+    "zip": "45342",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Tom Bloom",
+    "phone": "(260) 365-6510",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge",
+    "source_sha256": "1e8236559d09d55e5662b2f620db08a07b7a04c5a2261918bfc8e57027de0041"
+  },
+  {
+    "name": "Bellhaven at Union Square",
+    "street": "118 Union Square Dr",
+    "city": "New Albany",
+    "state": "OH",
+    "zip": "43054",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Phil Holloway",
+    "phone": "(330) 519-9639",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-union-square",
+    "source_sha256": "0218b7730a10487c0d3a87ac6a8643f0676f3f921d2189aa460f1e7cee8b42d5"
+  },
+  {
+    "name": "Bellhaven Court of Altoona",
+    "street": "1125 Logan Blvd",
+    "city": "Altoona",
+    "state": "PA",
+    "zip": "16602",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Elaine Sorensen",
+    "phone": "(517) 573-9493",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-court-of-altoona",
+    "source_sha256": "6b789b183b4084580c0b1ea828c3cf929e83759750fcf375310f474ccbb03d53"
+  },
+  {
+    "name": "Bellhaven Crossings of Lima",
+    "street": "3115 N Cole St",
+    "city": "Lima",
+    "state": "OH",
+    "zip": "45801",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Tricia Fitch",
+    "phone": "(231) 539-3617",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima",
+    "source_sha256": "0a501cbd649553d73613a8114a221d6f6fc98aff0d3530c5bbfabc6e351dcd88"
+  },
+  {
+    "name": "Bellhaven Gardens of Monroe",
+    "street": "750 Stewart Rd",
+    "city": "Monroe",
+    "state": "MI",
+    "zip": "48162",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Phil Mabry",
+    "phone": "(814) 412-2218",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe",
+    "source_sha256": "6003af059c15d0fc5014568219ce8f75ba34b59b14da0842d28df4c53edad04c"
+  },
+  {
+    "name": "Bellhaven Healthcare Centre of Ashland",
+    "street": "1631 Claremont Ave",
+    "city": "Ashland",
+    "state": "OH",
+    "zip": "44805",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Carla Okafor",
+    "phone": "(517) 314-5115",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland",
+    "source_sha256": "110f2cf5b6451cf9984d8531e8a6ec6e1bdc0309979b212d22f519bb09610ac2"
+  },
+  {
+    "name": "Bellhaven Meadows of Findlay",
+    "street": "1800 N Blanchard St",
+    "city": "Findlay",
+    "state": "OH",
+    "zip": "45840",
+    "care_offerings": [
+      "Assisted Living",
+      "Memory Support"
+    ],
+    "care_type": "Assisted Living; Memory Care",
+    "administrator": "Sam Pruitt",
+    "phone": "(231) 533-2969",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-meadows-of-findlay",
+    "source_sha256": "e8f037ebeef4be97d5c13d100642368c725c41469f238dc71fefb0c320bb0412"
+  },
+  {
+    "name": "Bellhaven of Ashtabula",
+    "street": "3156 W Prospect Rd",
+    "city": "Ashtabula",
+    "state": "OH",
+    "zip": "44004",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Ned Green",
+    "phone": "(260) 440-4975",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-ashtabula",
+    "source_sha256": "67a942cd7290a507966f9e25f0ad17c26a28f0808173a0f1ad6a717f995fe34b"
+  },
+  {
+    "name": "Bellhaven of Batavia",
+    "street": "2000 Hospital Dr",
+    "city": "Batavia",
+    "state": "OH",
+    "zip": "45103",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Elaine Lindqvist",
+    "phone": "(231) 698-3092",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-batavia",
+    "source_sha256": "d05f62b5b9915cc93c6d6e3d8144fd2786c6d3222c6b1ef8e72d244e360d6f81"
+  },
+  {
+    "name": "Bellhaven of Carlisle",
+    "street": "640 Walnut Bottom Rd",
+    "city": "Carlisle",
+    "state": "PA",
+    "zip": "17015",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Ken Ashby",
+    "phone": "(260) 386-7765",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-carlisle",
+    "source_sha256": "baec61346c63b0832291df8c381802c2673a1b41ecc5d794ec0f482078b399ec"
+  },
+  {
+    "name": "Bellhaven of Chagrin Falls",
+    "street": "150 River St",
+    "city": "Chagrin Falls",
+    "state": "OH",
+    "zip": "44022",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Dale Mabry",
+    "phone": "(231) 283-7448",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chagrin-falls",
+    "source_sha256": "1b0e63aa7db9e68ab49ad3ceb009cda71d14b4ddb441686269814a12487e2bbc"
+  },
+  {
+    "name": "Bellhaven of Chesterton",
+    "street": "1250 NW Franklin Street",
+    "city": "Chesterton",
+    "state": "IN",
+    "zip": "46304",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Karen Reyes",
+    "phone": "(216) 551-3978",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton",
+    "source_sha256": "8e5271df6b502d085f22322fe1c016390c893b28511d195b12547e5b3cbc6ace"
+  },
+  {
+    "name": "Bellhaven of Defiance",
+    "street": "700 Carpenter Rd",
+    "city": "Defiance",
+    "state": "OH",
+    "zip": "43512",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Victor Barros",
+    "phone": "(330) 691-2711",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance",
+    "source_sha256": "8fee2b5a3f1db31fda1949a7211e8d9246d61668a3edfd95357f4620dbb21185"
+  },
+  {
+    "name": "Bellhaven of Goshen",
+    "street": "1610 College Ave",
+    "city": "Goshen",
+    "state": "IN",
+    "zip": "46526",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Tanya Castellano",
+    "phone": "(330) 405-6040",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen",
+    "source_sha256": "cfab35a3951b0769c46a61c0cfb7d5e5ab0585a67aa12104f842c1d954e47c1a"
+  },
+  {
+    "name": "Bellhaven of Kalamazoo",
+    "street": "3222 Gull Rd",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49048",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Chris Ferraro",
+    "phone": "(231) 460-1964",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kalamazoo",
+    "source_sha256": "43c09506bec9e7ba55c94dd026dc37d0ac668c6ef9434d88299751f66d79a2a6"
+  },
+  {
+    "name": "Bellhaven of Kettering",
+    "street": "3313 Wilmington Pike",
+    "city": "Kettering",
+    "state": "OH",
+    "zip": "45429",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Priya Ashby",
+    "phone": "(231) 269-5449",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering",
+    "source_sha256": "96a489d2f3f15a04d9844638c650d5ea2b425b8ab4114b303cb8be474ada4f32"
+  },
+  {
+    "name": "Bellhaven of Maplewood",
+    "street": "210 Orchard Lane",
+    "city": "Maplewood",
+    "state": "OH",
+    "zip": "44280",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Nadia Duval",
+    "phone": "(614) 250-9447",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-maplewood",
+    "source_sha256": "a569ff62c182403d483e0791d5ba37d75e4af8a7a91c9e719cd6b1c2c6bb94bd"
+  },
+  {
+    "name": "Bellhaven of Marietta",
+    "street": "805 Colegate Dr",
+    "city": "Marietta",
+    "state": "OH",
+    "zip": "45750",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Rosa Dietz",
+    "phone": "(614) 337-1967",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta",
+    "source_sha256": "49f7377524de8d9e93cc48612b72beafc1547e43a3a35f82ae10bf1fdab75804"
+  },
+  {
+    "name": "Bellhaven of Marion",
+    "street": "199 Barks Rd W",
+    "city": "Marion",
+    "state": "OH",
+    "zip": "43302",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Doug Amato",
+    "phone": "(517) 847-7948",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion",
+    "source_sha256": "d0fdfa50e7e2d6292264f55967c0f9f3e5d6e6fd4640b8ab28ed4388d4fca1c5"
+  },
+  {
+    "name": "Bellhaven of Meadville",
+    "street": "341 Chestnut St",
+    "city": "Meadville",
+    "state": "PA",
+    "zip": "16335",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Chris Pike",
+    "phone": "(419) 848-5389",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-meadville",
+    "source_sha256": "6f02bff558267f5e0cfbd875d6d0e5e64dc89c406d5bbf173268cce7599fa430"
+  },
+  {
+    "name": "Bellhaven of New Carlisle",
+    "street": "875 Elm Street",
+    "city": "New Carlisle",
+    "state": "OH",
+    "zip": "45344",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Elaine Novak",
+    "phone": "(614) 900-2177",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-new-carlisle",
+    "source_sha256": "425c6569e5b15f2e9d6e8f959968e30814d3c4fa3e579e8ed4942d05261e8782"
+  },
+  {
+    "name": "Bellhaven of Owosso",
+    "street": "1120 W Main St",
+    "city": "Owosso",
+    "state": "MI",
+    "zip": "48867",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Gloria Lambert",
+    "phone": "(734) 503-1363",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-owosso",
+    "source_sha256": "94c357cd72f2404329dfd95f10382eb8ecc1cb7a9d417ec1ffbbcb74b97c6d3b"
+  },
+  {
+    "name": "Bellhaven of Port Clinton",
+    "street": "1420 Harbor Point Dr",
+    "city": "Port Clinton",
+    "state": "OH",
+    "zip": "43452",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Brenda Whitfield",
+    "phone": "(330) 733-6423",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-port-clinton",
+    "source_sha256": "cd21729cf6b377489549d2cf43bf0ede1f9df820060520250d83cae4aa9153ec"
+  },
+  {
+    "name": "Bellhaven of Portsmouth",
+    "street": "2222 Gallia St",
+    "city": "Portsmouth",
+    "state": "OH",
+    "zip": "45662",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Tanya Quinn",
+    "phone": "(330) 431-2495",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-portsmouth",
+    "source_sha256": "dac41467f27f9a4868aaa85fb861176781b0216219d0c47da3c2491931e14380"
+  },
+  {
+    "name": "Bellhaven of Saline",
+    "street": "980 W Michigan Ave",
+    "city": "Saline",
+    "state": "MI",
+    "zip": "48176",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Dale Green",
+    "phone": "(614) 868-2766",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-saline",
+    "source_sha256": "cf2a92f3e604de84fd39f03afb187b569f6b97096e6f597ed07a0c0c635226b4"
+  },
+  {
+    "name": "Bellhaven of Tiffin",
+    "street": "45 St Lawrence Dr",
+    "city": "Tiffin",
+    "state": "OH",
+    "zip": "44883",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Walt Osei",
+    "phone": "(260) 589-2589",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin",
+    "source_sha256": "b5d3560d0632a3117678159952b60760aa708ed811b10e7418ba28ebee003613"
+  },
+  {
+    "name": "Bellhaven of Wooster",
+    "street": "2301 Cleveland Road",
+    "city": "Wooster",
+    "state": "OH",
+    "zip": "44691",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Lorna Sorensen",
+    "phone": "(517) 712-7557",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-wooster",
+    "source_sha256": "0a030ef41318c88cafdd7acdc16b8a5362781c73b23409b6ac33491090e8f86f"
+  },
+  {
+    "name": "Bellhaven of Zanesville",
+    "street": "2680 Maple Ave",
+    "city": "Zanesville",
+    "state": "OH",
+    "zip": "43701",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Dale Amato",
+    "phone": "(814) 599-2533",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-zanesville",
+    "source_sha256": "f75af2b7836f6be3a1f96044b09578fcb1714854434975b1183ed076afd7ca6d"
+  },
+  {
+    "name": "Bellhaven Rehabilitation & Nursing of Grove City",
+    "street": "3985 Broadway",
+    "city": "Grove City",
+    "state": "OH",
+    "zip": "43123",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "care_type": "Skilled Nursing",
+    "administrator": "Marie Vogel",
+    "phone": "(614) 555-7729",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city",
+    "source_sha256": "9ba8c27f29789590249079c899c34889bd2108c07c70509088fdab261e0c98cd"
+  },
+  {
+    "name": "Bellhaven Shores of Erie",
+    "street": "4930 W Lake Rd",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16505",
+    "care_offerings": [
+      "Assisted Living",
+      "Memory Support"
+    ],
+    "care_type": "Assisted Living; Memory Care",
+    "administrator": "Angela Quinn",
+    "phone": "(614) 792-9343",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-shores-of-erie",
+    "source_sha256": "af99e7509d1773bd4e65b8175f003a946c1e089e9e16b9a14ae6f638266a3f9a"
+  },
+  {
+    "name": "Bellhaven Terrace of Akron",
+    "street": "55 Ridgewood Avenue",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44313",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "care_type": "Assisted Living",
+    "administrator": "Chris Lindqvist",
+    "phone": "(260) 899-4605",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-terrace-of-akron",
+    "source_sha256": "89a8b1aba178678c84fb17c5a42948936f805716f482d4c302b99eac696d84e8"
+  },
+  {
+    "name": "Bellhaven Willow Creek",
+    "street": "8060 Willow Creek Ln",
+    "city": "Portage",
+    "state": "MI",
+    "zip": "49024",
+    "care_offerings": [
+      "Memory Support"
+    ],
+    "care_type": "Memory Care",
+    "administrator": "Walt Mabry",
+    "phone": "(419) 394-5494",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-willow-creek",
+    "source_sha256": "674ee41f32b0a6b63024f03de7a1f7e8a8b9aa78985685740edf372a56d0171e"
+  },
+  {
+    "name": "Bellhaven Woods of Toledo",
+    "street": "4850 NW Sylvania Ave",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43623",
+    "care_offerings": [
+      "Memory Support"
+    ],
+    "care_type": "Memory Care",
+    "administrator": "Doug Novak",
+    "phone": "(734) 388-8242",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-woods-of-toledo",
+    "source_sha256": "d4b69b407560c799fa56e4b3d12b3a6e1fd0e0f534705e7a2cbcf63ff13ea1b1"
+  },
+  {
+    "name": "The Arbors at Bellhaven - Dayton",
+    "street": "2210 Salem Ave",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45406",
+    "care_offerings": [
+      "Memory Support"
+    ],
+    "care_type": "Memory Care",
+    "administrator": "Ray Novak",
+    "phone": "(260) 254-7592",
+    "notices": [],
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton",
+    "source_sha256": "35d8c97829d7c66921b14d91c93cf6831d42017ab4a2b3b01f9966abe1252538"
+  }
+]

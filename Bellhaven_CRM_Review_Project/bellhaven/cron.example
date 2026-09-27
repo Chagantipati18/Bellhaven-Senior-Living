@@ -1,0 +1,7 @@
+# Daily proposal generation at 06:30 in the cron host's timezone.
+# Install using `crontab -e` AFTER updating both absolute paths.
+# /secure/bellhaven.env must contain: export BELLHAVEN_API_TOKEN='your-token'
+# Keep that file outside your repo and chmod 600 it. Do not commit it.
+# The same data/ directory MUST persist across scans and UI sessions.
+# Never schedule approvals. Review and apply only through the app.
+30 6 * * * cd /absolute/path/to/bellhaven && . /secure/bellhaven.env && /usr/bin/python3 pipeline.py >> data/daily.log 2>&1
